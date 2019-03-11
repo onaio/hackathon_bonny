@@ -1,1 +1,1 @@
-AFRO: Non Polio AFP(NPAFP) RATES
+AFRO: Non Polio AFP (NPAFP) rates
