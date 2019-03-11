@@ -20,7 +20,7 @@ import {
 import TitleBar from './submodules/gisida-react-private/src/components/TitleBar/TitleBar';
 import MapToggle from './submodules/gisida-react-private/src/components/TitleBar/MapToggle';
 import RefreshToggle from './submodules/gisida-react-private/src/components/TitleBar/RefreshToggle';
-import ProfileView from './submodules/gisida-react-private/src/components/Lotfa/ProfileView';
+// import ProfileView from './submodules/gisida-react-private/src/components/Lotfa/ProfileView';
 
 // LOTFA Private Components
 import Login, { isLoggedIn } from './submodules/gisida-react-private/src/components/Login/Login'; 
@@ -50,7 +50,7 @@ if (isLoggedIn()) {
           <TimeSeriesSlider />
           <Spinner />
           <DetailView>
-            <ProfileView parentstate/>
+           
           </DetailView>
         </Map>
       </App>

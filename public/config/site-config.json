@@ -12,10 +12,10 @@
     "apiHost": "api.lotfa.org",
     "accessToken": "pk.eyJ1Ijoib25hIiwiYSI6IlVYbkdyclkifQ.0Bz-QOOXZZK01dq4MuMImQ",
     "apiAccessToken": "4e97420395eb1564ecb6088a3dae859dc4f3aeaf",
-    "appIcon": "/assets/img/undp-2.png",
-    "appColor": "#0C55A8",
+    "appIcon": "/assets/img/who.png",
+    "appColor": "#0097CF",
     "appName": "",
-    "appNameDesc": "Law Order Trust Fund Afghanistan (LOTFA)",
+    "appNameDesc": "AFRO: Non Polio AFP (NPAFP)",
     "password": ["lotfa"]
   },
   "STYLES": [
@@ -40,102 +40,6 @@
       "province-admin-labels",
       "district-admin-labels",
       "pd-juridictions-labels"
-      
-      ],
-    "Infrastructure": [
-      {
-        "Police Stations": ["policestations-kbl", "pd-details-form", "pd-juridictions-labeled", "pd-juridictions", "pd-boundaries", {
-          "Security": ["pd-steel-gate",
-            "pd-boom-barrier",
-            "sentry-post",
-            "security-control-room",
-            "pd-windows-protected",
-            "pd-physical-barriers",
-            "pd-perimeter-lights",
-            "pd-watch-towers",
-            "pd-motorbikes",
-            "pd-regular-jeeps",
-            "pd-armored-jeeps",
-            "pd-pickups",
-            "pd-regular-cars",
-            "pd-armored-cars",
-            "pd-beds"]
-        }]
-      },
-      {
-        "Health Facilities": ["health-facilities-hrt-kbl", "health-centres"]
-      },
-      {
-        "Government Buildings": ["govtbuildings-hrt-kbl", "service-centres"]
-      },
-      {
-        "Education": ["education-hrt-kbl", "training-centres"]
-      }
-    ],
-    "Demographics": [
-      "pd-public-visits",
-      "kabul-dist-population",
-      "pd-population-total"
-    ],
-    "Police Information": [
-      "police-paid",
-      "acled",
-      "E1",
-      "E2",
-      "E3",
-      "E4",
-      "E5",
-      "E6",
-      "E7",
-      "E8",
-      "E9"
-    ],
-
-      "Insecurity":
-      ["insecurity",
-       "insecurity-circle",
-        "limited_capacity",
-        "limited-capacity-circle",
-        "anti-gov",
-        "anti-gov-circle",
-        "drugs",
-        "drugs-circle"],
-      
-      "Security Improvement": 
-      ["pd-attacked",
-      "improvement",
-      "improvement-circle",
-      "police-posts",
-      "police-posts-circle",
-      "lack-ant-gov-groups",
-      "lack-ant-gov-groups-circle",
-      "lack-drugs",
-      "lack-drugs-circle"]
-  },
-  "LOC": {
-    "AF": {
-      "default": false,
-      "label": "Afghanistan",
-      "center": [63.79, 33.98],
-      "zoom": 5.2
-    },
-    "AF-Herat": {
-      "default": false,
-      "label": "Herat",
-      "center": {
-        "lng": 62.19225048645524,
-        "lat": 34.346309101680774
-      },
-      "zoom": 12.351050113472233
-    },
-    "AF-Kabul": {
-      "default": true,
-      "label": "Kabul",
-      "zoom": 10.895873279884117,
-      "center": {
-        "lng": 69.13155473084771,
-        "lat": 34.50960383103761
-      }
-    }
+      ]
   }
 }
