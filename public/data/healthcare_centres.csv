@@ -1,0 +1,7 @@
+longitude,latitude,number,facility_number,facility_name,facility_type,province,district,parent_pd,village,max_people,people,admin_staff,land_ownership
+69.17097,34.523971,8,118,Central Clinic of Police Commandant Kabul,Health Facilities,Kabul,Kabul,,,0,0,0,Rent
+69.11432,34.53732,104,222,"Rehabilitation of Kitchen, Central hospital for out of bend patients, ",Health Facilities,Kabul,Kabul City,,,0,0,0,Rent
+69.11432,34.53732,105,223,"Rehabilitation of police academy health clinic, Kabul",Health Facilities,Kabul,Kabul City,,,0,0,0,Rent
+69.11432,34.53732,111,231,"Office for general surgery, Health clinic Kabul",Health Facilities,Kabul,Kabul City,,,0,0,0,Rent
+69.114,34.48,112,232,"Health store for national police, Kabul",Health Facilities,Kabul,Kabul City,,,0,0,0,Rent
+69.11718,34.53798,127,248,"Health commandant for national police, PD5",Health Facilities,Kabul,PD5,,,0,0,0,Gov.

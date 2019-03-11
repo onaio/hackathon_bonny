@@ -1,0 +1,59 @@
+{
+    "label": " WEPS Payroll After Bridge Funding: Concentration of policemen removed from WEPS by region",
+    "source": {
+        "type": "vector",
+        "data": "data/police_removed.csv",
+        "layer": "afg_admbnda_adm1_agcho_201805-367pni",
+        "url": "mapbox://ona.9m1lfrr5",
+        "join": [
+            "ADM1_PCODE",
+            "province_id"
+        ]
+    },
+    "type": "fill",
+    "property": "perc_removed",
+    "categories": {
+        "breaks": "yes",
+        "color": "Blues",
+        "clusters": 5,
+        "suffix": "%"
+    },
+    "labels": {
+        "data": "data/afg_admbnda_adm1_agcho_centroids.csv",
+        "label": "<b> {{perc_removed}}% </b>",
+        "join": [
+            "ADM1_PCODE",
+            "province_id"
+        ],
+        "coordinates": [
+            "longitude",
+            "latitude"
+        ],
+        "minZoom": 4.5,
+        "height": 30,
+        "width": 30
+    },
+    "popup": {
+        "header": "province",
+        "body": " <p style=text-align:left;> <b>Total Police:</b> {{total_police}} <br> <b>Percentage Removed:</b><i> {{perc_removed}}%</i><br> <b>Percentage Remained:</b><i> {{perc_not_removed}}%</i><span style=float:right;>"
+    },
+    "visible": false,
+    "credit": "Only ANP personnel that have been verified through the PAI process are being paid in WEP",
+    "category": "Police Information",
+    "charts": {
+        "pie": {
+            "type": "breaks",
+            "level": "province",
+            "column": "perc_removed",
+            "suffix": "%"
+        },
+        "primary": {
+            "type": "column",
+            "spec": {
+                "type": "percent",
+                "level": "province",
+                "column": "perc_removed"
+            }
+        }
+    }
+}

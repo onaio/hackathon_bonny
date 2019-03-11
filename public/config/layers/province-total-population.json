@@ -1,0 +1,55 @@
+{
+"label": "Province Total Population",
+    "source": {
+      "type": "vector",
+      "data": "data/population_data.csv",
+      "layer": "afg_admbnda_adm1_agcho_201805-367pni",
+      "url": "mapbox://ona.9m1lfrr5",
+      "join": ["ADM1_PCODE", "CSO_PROV_CODE"]
+    },
+    "type": "fill",
+    "property": "TOTAL",
+    "categories": {
+      "breaks": "yes",
+      "color": "Greens",
+      "clusters": 5
+    },
+    "labels": {
+        "data": "data/afg_admbnda_adm1_agcho_centroids.csv",
+        "label": "<b> {{TOTAL}} </b>",
+        "join": [
+            "ADM1_PCODE",
+            "CSO_PROV_CODE"
+        ],
+        "coordinates": [
+            "longitude",
+            "latitude"
+        ],
+        "minZoom": 4.5,
+        "height": 30,
+        "width": 30
+    },
+    "popup": {
+        "header": "CSO_PROV_NA_ENG",
+        "body": " <p style=text-align:left;> <b>Total Population:</b> {{TOTAL}}<span style=float:right;>"
+    },
+    "visible": false,
+    "credit": "Total population",
+    "category": "Demographics",
+    "charts": {
+        "pie": {
+            "type": "breaks",
+            "level": "CSO_PROV_NA_ENG",
+            "column": "TOTAL",
+            "suffix": "%"
+        },
+        "primary": {
+            "type": "column",
+            "spec": {
+                "type": "percent",
+                "level": "CSO_PROV_NA_ENG",
+                "column": "TOTAL"
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "label": "Percentage of Lack of Anti-Government Groups - Circles",
+    "source": {
+      "type": "vector",
+      "data": "data/improve_insecurity.csv",
+      "layer": "afg_admbnda_adm1_agcho_201805-corct0",
+      "url": "mapbox://ona.5qpkgank",
+      "join": ["ADM1_PCODE", "province_id"]
+    },
+    "type": "circle",
+    "property": "ant_gov_grps",
+    "categories": {
+      "breaks": "yes",
+      "color": "Purples",
+      "clusters": 5
+    },
+    "geo-columns": [
+        "longitude",
+        "latitude"
+    ],
+    "popup": {
+        "header": "province",
+        "body": " <p style=text-align:left;> <b>Percentage:</b> {{ant_gov_grps}}%<span style=float:right;>"
+    },
+    "visible": false,
+    "credit": "Percentage of Lack of Anti-Government Groups",
+    "category": "Security improvement",
+    "charts": {
+        "pie": {
+            "type": "breaks",
+            "level": "province",
+            "column": "ant_gov_grps",
+            "suffix": "%"
+        },
+        "primary": {
+            "type": "column",
+            "spec": {
+                "type": "percent",
+                "level": "province",
+                "column": "ant_gov_grps"
+            }
+        }
+    }
+}
+    

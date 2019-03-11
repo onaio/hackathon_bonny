@@ -1,0 +1,51 @@
+{
+    "label": "Percentage of Consumption of Alcohol/Drugs - Circles",
+    "source": {
+      "type": "vector",
+      "data": "data/Lotfa_insecurity.csv",
+      "layer": "afg_admbnda_adm1_agcho_201805-corct0",
+      "url": "mapbox://ona.5qpkgank",
+      "join": ["ADM1_PCODE", "province_id"]
+    },
+    "type": "circle",
+    "property": "drugs",
+    "categories": {
+      "breaks": "yes",
+      "color":[
+        "#feedde",
+        "#fdbe85",
+        "#fd8d3c",
+        "#e6550d",
+        "#a63603"
+    ],
+      "clusters": 5
+    },
+    "geo-columns": [
+        "longitude",
+        "latitude"
+    ],
+    "popup": {
+        "header": "province",
+        "body": " <p style=text-align:left;> <b>Percentage:</b> {{drugs}}%<span style=float:right;>"
+    },
+    "visible": false,
+    "credit": "Percentage of Consumption of Alcohol/Drugs ",
+    "category": "Boundaries",
+    "charts": {
+        "pie": {
+            "type": "breaks",
+            "level": "province",
+            "column": "drugs",
+            "suffix": "%"
+        },
+        "primary": {
+            "type": "column",
+            "spec": {
+                "type": "percent",
+                "level": "province",
+                "column": "drugs"
+            }
+        }
+    }
+}
+    

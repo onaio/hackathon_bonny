@@ -1,0 +1,60 @@
+{
+    "label": "Percentage of Consumption of Alcohol/Drugs",
+    "source": {
+      "type": "vector",
+      "data": "data/Lotfa_insecurity.csv",
+      "layer": "afg_admbnda_adm1_agcho_201805-367pni",
+      "url": "mapbox://ona.9m1lfrr5",
+      "join": ["ADM1_PCODE", "province_id"]
+    },
+    "type": "fill",
+    "property": "drugs",
+    "categories": {
+      "breaks": "yes",
+      "color": ["#feedde",
+      "#fdbe85",
+      "#fd8d3c",
+      "#e6550d",
+      "#a63603"],
+      "clusters": 5
+    },
+    "labels": {
+        "data": "data/afg_admbnda_adm1_agcho_centroids.csv",
+        "label": "<b> {{drugs}}% </b>",
+        "join": [
+            "ADM1_PCODE",
+            "province_id"
+        ],
+        "coordinates": [
+            "longitude",
+            "latitude"
+        ],
+        "minZoom": 4.5,
+        "height": 30,
+        "width": 30
+    },
+    "popup": {
+        "header": "province",
+        "body": " <p style=text-align:left;> <b>Percentage:</b> {{drugs}}%<span style=float:right;>"
+    },
+    "visible": false,
+    "credit": "Percentage of Consumption of Alcohol/Drugs ",
+    "category": "Insecurity",
+    "charts": {
+        "pie": {
+            "type": "breaks",
+            "level": "province",
+            "column": "drugs",
+            "suffix": "%"
+        },
+        "primary": {
+            "type": "column",
+            "spec": {
+                "type": "percent",
+                "level": "province",
+                "column": "drugs"
+            }
+        }
+    }
+}
+    

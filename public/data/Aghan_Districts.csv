@@ -1,0 +1,400 @@
+Shape_Leng,Shape_Area,ADM2_EN,ADM2_PCODE,ADM2ALT1EN,ADM2ALT2EN,ADM1_EN,ADM1_PCODE,ADM0_EN,REG_EN
+1.168942851,0.034376855,Kabul,AF0101,,,Kabul,AF01,Afghanistan,Capital
+0.867360168,0.035503003,Paghman,AF0102,,,Kabul,AF01,Afghanistan,Capital
+0.80705311,0.025248007,Chahar Asyab,AF0103,,,Kabul,AF01,Afghanistan,Capital
+0.861447945,0.027447575,Bagrami,AF0104,,,Kabul,AF01,Afghanistan,Capital
+1.017384384,0.045426035,Deh Sabz,AF0105,,,Kabul,AF01,Afghanistan,Capital
+1.014935182,0.031256433,Shakar Dara,AF0106,,,Kabul,AF01,Afghanistan,Capital
+0.518480233,0.010831075,Musahi,AF0107,,,Kabul,AF01,Afghanistan,Capital
+0.349989833,0.006477423,Mir Bacha Kot,AF0108,,,Kabul,AF01,Afghanistan,Capital
+1.417521712,0.057344008,Khak-e-Jabbar,AF0109,,,Kabul,AF01,Afghanistan,Capital
+0.457999092,0.007381381,Kalakan,AF0110,,,Kabul,AF01,Afghanistan,Capital
+0.432560491,0.007460547,Guldara,AF0111,,,Kabul,AF01,Afghanistan,Capital
+0.502622659,0.00883464,Farza,AF0112,,,Kabul,AF01,Afghanistan,Capital
+0.519350045,0.010793372,Estalef,AF0113,,,Kabul,AF01,Afghanistan,Capital
+0.861005567,0.02057817,Qara Bagh,AF0114,,,Kabul,AF01,Afghanistan,Capital
+2.537649502,0.128625658,Surubi,AF0115,,,Kabul,AF01,Afghanistan,Capital
+0.752749234,0.018220337,Mahmood-e-Raqi,AF0201,Centre,,Kapisa,AF02,Afghanistan,Capital
+0.392084066,0.005242971,Hisa-e-Duwum-e-Kohistan,AF0202,,,Kapisa,AF02,Afghanistan,Capital
+0.559650923,0.014848545,Koh Band,AF0203,,,Kapisa,AF02,Afghanistan,Capital
+0.459118816,0.008708509,Hisa-e-Awal-e-Kohistan,AF0204,,,Kapisa,AF02,Afghanistan,Capital
+1.086928068,0.057472419,Nijrab,AF0205,,,Kapisa,AF02,Afghanistan,Capital
+1.465788673,0.051475571,Tagab,AF0206,,,Kapisa,AF02,Afghanistan,Capital
+0.828991984,0.029864406,Alasay,AF0207,,,Kapisa,AF02,Afghanistan,Capital
+0.988713437,0.026416583,Charikar,AF0301,Centre,,Parwan,AF03,Afghanistan,Capital
+1.110193697,0.035569906,Bagram,AF0302,,,Parwan,AF03,Afghanistan,Capital
+1.400783575,0.071379107,Shinwari,AF0303,,,Parwan,AF03,Afghanistan,Capital
+0.369074339,0.004536696,Sayed Khel,AF0304,,,Parwan,AF03,Afghanistan,Capital
+0.657278102,0.011525069,Jabal Saraj,AF0305,,,Parwan,AF03,Afghanistan,Capital
+1.139820008,0.051562073,Salang,AF0306,,,Parwan,AF03,Afghanistan,Capital
+1.469859496,0.088417154,Ghorband,AF0307,Syah Gird,,Parwan,AF03,Afghanistan,Capital
+1.273077367,0.05712488,Koh-e-Safi,AF0308,,,Parwan,AF03,Afghanistan,Capital
+1.840604808,0.114682295,Surkh-e-Parsa,AF0309,,,Parwan,AF03,Afghanistan,Capital
+1.346174255,0.090869569,Shekh Ali,AF0310,,,Parwan,AF03,Afghanistan,Capital
+0.886621162,0.024184307,Maydan Shahr,AF0401,Centre,,Maidan Wardak,AF04,Afghanistan,Capital
+1.43114485,0.055082806,Nerkh,AF0402,,,Maidan Wardak,AF04,Afghanistan,Capital
+1.705141035,0.10734373,Jalrez,AF0403,,,Maidan Wardak,AF04,Afghanistan,Capital
+1.868903176,0.108588131,Chak-e-Wardak,AF0404,Chak,,Maidan Wardak,AF04,Afghanistan,Capital
+1.87921364,0.106829747,Saydabad,AF0405,,,Maidan Wardak,AF04,Afghanistan,Capital
+1.933946429,0.093628436,Daymirdad,AF0406,,,Maidan Wardak,AF04,Afghanistan,Capital
+2.006300938,0.154595624,Hesa-e-Awal-e-Behsud,AF0407,,,Maidan Wardak,AF04,Afghanistan,Capital
+1.272654698,0.058394337,Jaghatu,AF0408,,,Maidan Wardak,AF04,Afghanistan,Capital
+3.524374121,0.328094677,Markaz-e-Behsud,AF0409,,,Maidan Wardak,AF04,Afghanistan,Capital
+1.984159941,0.109466358,Pul-e-Alam,AF0501,Centre,,Logar,AF05,Afghanistan,Capital
+0.834391608,0.026634233,Baraki Barak,AF0502,,,Logar,AF05,Afghanistan,Capital
+0.806917535,0.027897314,Charkh,AF0503,,,Logar,AF05,Afghanistan,Capital
+0.949830802,0.042610866,Khoshi,AF0504,,,Logar,AF05,Afghanistan,Capital
+1.680112392,0.102821503,Mohammad Agha,AF0505,,,Logar,AF05,Afghanistan,Capital
+1.226816752,0.045473195,Kharwar,AF0506,,,Logar,AF05,Afghanistan,Capital
+1.702482856,0.074383528,Azra,AF0507,,,Logar,AF05,Afghanistan,Capital
+0.213845237,0.002316248,Jalalabad,AF0601,Centre,,Nangarhar,AF06,Afghanistan,Eastern
+1.28331809,0.03051846,Behsud,AF0602,,,Nangarhar,AF06,Afghanistan,Eastern
+1.015890478,0.037720331,Surkh Rod,AF0603,,,Nangarhar,AF06,Afghanistan,Eastern
+0.680761358,0.022645258,Chaparhar,AF0604,,,Nangarhar,AF06,Afghanistan,Eastern
+0.753243907,0.02251991,Kama,AF0605,,,Nangarhar,AF06,Afghanistan,Eastern
+0.840208779,0.028509782,Kuz Kunar,AF0606,Khewa,,Nangarhar,AF06,Afghanistan,Eastern
+0.985592217,0.034895645,Rodat,AF0607,,,Nangarhar,AF06,Afghanistan,Eastern
+1.616572246,0.066303741,Khogyani,AF0608,,,Nangarhar,AF06,Afghanistan,Eastern
+0.558514544,0.014944037,Bati Kot,AF0609,,,Nangarhar,AF06,Afghanistan,Eastern
+0.897873131,0.037659737,Deh Bala,AF0610,Haska Meyna,,Nangarhar,AF06,Afghanistan,Eastern
+1.055044732,0.045865847,Pachir Wa Agam,AF0611,,,Nangarhar,AF06,Afghanistan,Eastern
+0.647954413,0.025443023,Dara-e-Nur,AF0612,,,Nangarhar,AF06,Afghanistan,Eastern
+0.673712433,0.016926762,Kot,AF0613,,,Nangarhar,AF06,Afghanistan,Eastern
+1.132212368,0.051142678,Goshta,AF0614,,,Nangarhar,AF06,Afghanistan,Eastern
+1.055832934,0.045637775,Achin,AF0615,,,Nangarhar,AF06,Afghanistan,Eastern
+0.410163485,0.008568812,Shinwar,AF0616,Ghani Khail,,Nangarhar,AF06,Afghanistan,Eastern
+1.157378761,0.02775815,Muhmand Dara,AF0617,,,Nangarhar,AF06,Afghanistan,Eastern
+0.990185869,0.045406326,Lalpur,AF0618,,,Nangarhar,AF06,Afghanistan,Eastern
+1.062349366,0.045604891,Sherzad,AF0619,,,Nangarhar,AF06,Afghanistan,Eastern
+0.785387802,0.021123611,Nazyan,AF0620,,,Nangarhar,AF06,Afghanistan,Eastern
+1.576288891,0.065563409,Hesarak,AF0621,,,Nangarhar,AF06,Afghanistan,Eastern
+0.787307716,0.027306122,Dur Baba,AF0622,,,Nangarhar,AF06,Afghanistan,Eastern
+1.578487034,0.070728465,Mehtarlam,AF0701,Laghman Centre,Centre,Laghman,AF07,Afghanistan,Eastern
+1.727926834,0.087103105,Qarghayi,AF0702,,,Laghman,AF07,Afghanistan,Eastern
+1.263270809,0.066063873,Alishang,AF0703,,,Laghman,AF07,Afghanistan,Eastern
+1.40885838,0.080629083,Alingar,AF0704,,,Laghman,AF07,Afghanistan,Eastern
+1.337878842,0.073325919,Dawlatshah,AF0705,,,Laghman,AF07,Afghanistan,Eastern
+0.94326314,0.034203915,Bazarak,AF0801,Centre,,Panjsher,AF08,Afghanistan,Capital
+0.738321971,0.016209737,Rukha,AF0802,,,Panjsher,AF08,Afghanistan,Capital
+1.394229035,0.070566942,Dara,AF0803,,,Panjsher,AF08,Afghanistan,Capital
+1.211893827,0.067967038,Khenj,AF0804,Hisa-e-Awal,,Panjsher,AF08,Afghanistan,Capital
+0.58970148,0.017675968,Anawa,AF0805,Onaba,,Panjsher,AF08,Afghanistan,Capital
+0.773122718,0.02242079,Shutul,AF0806,,,Panjsher,AF08,Afghanistan,Capital
+2.068056416,0.141481824,Paryan,AF0807,,,Panjsher,AF08,Afghanistan,Capital
+1.169165341,0.053287821,Pul-e-Khumri,AF0901,Centre,,Baghlan,AF09,Afghanistan,North Eastern
+1.876592532,0.145067351,Dahana-e-Ghori,AF0902,,,Baghlan,AF09,Afghanistan,North Eastern
+2.729760094,0.193402845,Doshi,AF0903,,,Baghlan,AF09,Afghanistan,North Eastern
+1.441366626,0.098415081,Nahrin,AF0904,,,Baghlan,AF09,Afghanistan,North Eastern
+2.642236888,0.260793484,Baghlan-e-Jadid,AF0905,,,Baghlan,AF09,Afghanistan,North Eastern
+1.519642429,0.101033155,Khinjan,AF0906,,,Baghlan,AF09,Afghanistan,North Eastern
+1.771731067,0.101549845,Andarab,AF0907,Banu,,Baghlan,AF09,Afghanistan,North Eastern
+1.041929475,0.045187429,Deh Salah,AF0908,,,Baghlan,AF09,Afghanistan,North Eastern
+1.313417946,0.065316766,Khwaja Hejran,AF0909,Jalga,Jalga Nahrin,Baghlan,AF09,Afghanistan,North Eastern
+1.600298574,0.083853313,Burka,AF0910,,,Baghlan,AF09,Afghanistan,North Eastern
+2.872131738,0.285476815,Tala Wa Barfak,AF0911,,,Baghlan,AF09,Afghanistan,North Eastern
+1.576541266,0.088432938,Pul-e-Hisar,AF0912,,,Baghlan,AF09,Afghanistan,North Eastern
+2.037550941,0.188835021,Khost Wa Fereng,AF0913,Khost,,Baghlan,AF09,Afghanistan,North Eastern
+0.981095308,0.041846949,Guzargah-e-Nur,AF0914,,,Baghlan,AF09,Afghanistan,North Eastern
+0.730622414,0.024095904,Fereng Wa Gharu,AF0915,Fereng,,Baghlan,AF09,Afghanistan,North Eastern
+2.128533058,0.17711014,Bamyan,AF1001,Centre,,Bamyan,AF10,Afghanistan,Central Highland
+2.335271119,0.128162013,Shibar,AF1002,,,Bamyan,AF10,Afghanistan,Central Highland
+2.162504871,0.171343059,Sayghan,AF1003,,,Bamyan,AF10,Afghanistan,Central Highland
+2.168069823,0.139629268,Kahmard,AF1004,,,Bamyan,AF10,Afghanistan,Central Highland
+4.438984939,0.669104397,Yakawlang,AF1005,,,Bamyan,AF10,Afghanistan,Central Highland
+3.070400469,0.184509517,Panjab,AF1006,,,Bamyan,AF10,Afghanistan,Central Highland
+3.087330964,0.292918223,Waras,AF1007,,,Bamyan,AF10,Afghanistan,Central Highland
+0.988982992,0.034932809,Ghazni,AF1101,Centre,,Ghazni,AF11,Afghanistan,South Eastern
+0.550109287,0.013678132,Wal-e-Muhammad-e-Shahid,AF1102,Khugyani,,Ghazni,AF11,Afghanistan,South Eastern
+0.787397952,0.020340122,Khwaja Umari,AF1103,,,Ghazni,AF11,Afghanistan,South Eastern
+0.838872197,0.037988084,Waghaz,AF1104,,,Ghazni,AF11,Afghanistan,South Eastern
+1.158229693,0.070240189,Deh Yak,AF1105,,,Ghazni,AF11,Afghanistan,South Eastern
+1.410251733,0.063491255,Jaghatu,AF1106,Bahrami Shahid,,Ghazni,AF11,Afghanistan,South Eastern
+1.321054946,0.068667211,Andar,AF1107,,,Ghazni,AF11,Afghanistan,South Eastern
+0.903610726,0.029358318,Zanakhan,AF1108,,,Ghazni,AF11,Afghanistan,South Eastern
+0.903040812,0.037749896,Rashidan,AF1109,,,Ghazni,AF11,Afghanistan,South Eastern
+4.203908724,0.508290798,Nawur,AF1110,,,Ghazni,AF11,Afghanistan,South Eastern
+1.951090178,0.159339359,Qara Bagh,AF1111,,,Ghazni,AF11,Afghanistan,South Eastern
+1.510694733,0.085516831,Giro,AF1112,,,Ghazni,AF11,Afghanistan,South Eastern
+1.393551477,0.096938223,Ab Band,AF1113,,,Ghazni,AF11,Afghanistan,South Eastern
+2.427157548,0.20229871,Jaghuri,AF1114,,,Ghazni,AF11,Afghanistan,South Eastern
+1.386094878,0.083579957,Muqur,AF1115,,,Ghazni,AF11,Afghanistan,South Eastern
+3.100580255,0.172355049,Malistan,AF1116,,,Ghazni,AF11,Afghanistan,South Eastern
+1.853099381,0.106874797,Gelan,AF1117,,,Ghazni,AF11,Afghanistan,South Eastern
+2.508196029,0.147791217,Ajristan,AF1118,,,Ghazni,AF11,Afghanistan,South Eastern
+2.103280507,0.159607389,Nawa,AF1119,,,Ghazni,AF11,Afghanistan,South Eastern
+1.155627178,0.051954514,Sharan,AF1201,Centre,,Paktika,AF12,Afghanistan,South Eastern
+0.858220823,0.040975186,Mata Khan,AF1202,,,Paktika,AF12,Afghanistan,South Eastern
+1.251761102,0.050476879,Yosuf Khel,AF1203,,,Paktika,AF12,Afghanistan,South Eastern
+0.737070937,0.033579586,Yahya Khel,AF1204,,,Paktika,AF12,Afghanistan,South Eastern
+1.320894698,0.064908623,Sar Rawzah,AF1205,Sar Hawzah,,Paktika,AF12,Afghanistan,South Eastern
+1.039144413,0.044523285,Omna,AF1206,,,Paktika,AF12,Afghanistan,South Eastern
+1.002100621,0.045657447,Zarghun Shahr,AF1207,,,Paktika,AF12,Afghanistan,South Eastern
+3.466254212,0.390267957,Gomal,AF1208,,,Paktika,AF12,Afghanistan,South Eastern
+1.454078473,0.095101287,Jani Khel,AF1209,,,Paktika,AF12,Afghanistan,South Eastern
+0.869122008,0.029055226,Surobi,AF1210,,,Paktika,AF12,Afghanistan,South Eastern
+1.238202809,0.049351831,Urgun,AF1211,,,Paktika,AF12,Afghanistan,South Eastern
+0.733928472,0.020683796,Ziruk,AF1212,,,Paktika,AF12,Afghanistan,South Eastern
+0.503911421,0.011808084,Nika,AF1213,Neka,Naka,Paktika,AF12,Afghanistan,South Eastern
+1.855622309,0.125032028,Barmal,AF1214,,,Paktika,AF12,Afghanistan,South Eastern
+0.655172334,0.021680113,Giyan,AF1215,,,Paktika,AF12,Afghanistan,South Eastern
+2.080384433,0.147134512,Dila,AF1216,Dila Wa Khusamand,,Paktika,AF12,Afghanistan,South Eastern
+2.153355769,0.168443727,Wazakhah,AF1217,,,Paktika,AF12,Afghanistan,South Eastern
+2.949155335,0.304132554,Wormamay,AF1218,,,Paktika,AF12,Afghanistan,South Eastern
+1.977610648,0.135771594,Turwo,AF1219,Tarwe,,Paktika,AF12,Afghanistan,South Eastern
+1.47126765,0.068817273,Gardez,AF1301,Centre,,Paktya,AF13,Afghanistan,South Eastern
+1.155274025,0.040547371,Ahmadaba,AF1302,,,Paktya,AF13,Afghanistan,South Eastern
+1.850049686,0.137169578,Zurmat,AF1303,,,Paktya,AF13,Afghanistan,South Eastern
+0.529212937,0.010383045,Shawak,AF1304,,,Paktya,AF13,Afghanistan,South Eastern
+1.215773407,0.048784181,Zadran,AF1305,Wuza Zadran,,Paktya,AF13,Afghanistan,South Eastern
+1.030853687,0.04393747,Sayed Karam,AF1306,,,Paktya,AF13,Afghanistan,South Eastern
+1.53856202,0.058779482,Jaji,AF1307,Alikhel,Aryob,Paktya,AF13,Afghanistan,South Eastern
+1.11105749,0.041194245,Lija Ahmad Khel,AF1308,,,Paktya,AF13,Afghanistan,South Eastern
+0.66047344,0.01410141,Jani Khel,AF1309,Mangal,,Paktya,AF13,Afghanistan,South Eastern
+0.916152403,0.029342931,Chamkani,AF1310,Samkani,,Paktya,AF13,Afghanistan,South Eastern
+0.805125946,0.019906505,Dand Wa Patan,AF1311,,,Paktya,AF13,Afghanistan,South Eastern
+1.222875146,0.047600672,Matun,AF1401,Khost,Centre,Khost,AF14,Afghanistan,South Eastern
+0.443299893,0.011082169,Mandozayi,AF1402,Ishmail Khail,,Khost,AF14,Afghanistan,South Eastern
+0.877043589,0.034773454,Gurbuz,AF1403,,,Khost,AF14,Afghanistan,South Eastern
+1.056205429,0.041627915,Tani,AF1404,Dargai,,Khost,AF14,Afghanistan,South Eastern
+1.254133856,0.041467129,Musa Khel,AF1405,,,Khost,AF14,Afghanistan,South Eastern
+0.892962994,0.03234695,Nadir Shah Kot,AF1406,,,Khost,AF14,Afghanistan,South Eastern
+1.048605819,0.040160911,Sabari,AF1407,Yaqubi,,Khost,AF14,Afghanistan,South Eastern
+1.075419937,0.038451664,Terezayi,AF1408,Ali Sher,,Khost,AF14,Afghanistan,South Eastern
+0.725050288,0.016585779,Bak,AF1409,,,Khost,AF14,Afghanistan,South Eastern
+0.665963753,0.015241606,Qalandar,AF1410,,,Khost,AF14,Afghanistan,South Eastern
+1.089350803,0.047581748,Spera,AF1411,,,Khost,AF14,Afghanistan,South Eastern
+0.604093294,0.016626086,Shamal,AF1412,Dowa Mandi,,Khost,AF14,Afghanistan,South Eastern
+0.868155363,0.031843637,Jaji Maydan,AF1413,,,Khost,AF14,Afghanistan,South Eastern
+0.554535941,0.008347441,Asad Abad,AF1501,Centre,,Kunar,AF15,Afghanistan,Eastern
+0.563854453,0.014458388,Marawara,AF1502,,,Kunar,AF15,Afghanistan,Eastern
+0.719744638,0.024916376,Watapur,AF1503,,,Kunar,AF15,Afghanistan,Eastern
+0.667836013,0.018650326,Narang,AF1504,,,Kunar,AF15,Afghanistan,Eastern
+0.740079606,0.019532253,Sar Kani,AF1505,,,Kunar,AF15,Afghanistan,Eastern
+1.101956511,0.043417732,Shigal,AF1506,,,Kunar,AF15,Afghanistan,Eastern
+1.098239515,0.054207397,Dara-e-Pech,AF1507,,,Kunar,AF15,Afghanistan,Eastern
+0.684460776,0.016673873,Bar Kunar,AF1508,,,Kunar,AF15,Afghanistan,Eastern
+0.781672385,0.024139539,Chawkay,AF1509,Sawkai,,Kunar,AF15,Afghanistan,Eastern
+1.043985576,0.035890084,Khas Kunar,AF1510,,,Kunar,AF15,Afghanistan,Eastern
+1.123381167,0.055538315,Ghazi Abad,AF1511,,,Kunar,AF15,Afghanistan,Eastern
+0.749989595,0.020064199,Dangam,AF1512,,,Kunar,AF15,Afghanistan,Eastern
+1.142817976,0.059268752,Chapa Dara,AF1513,,,Kunar,AF15,Afghanistan,Eastern
+0.750362023,0.030300041,Nurgal,AF1514,,,Kunar,AF15,Afghanistan,Eastern
+1.360479864,0.053065909,Nari,AF1515,,,Kunar,AF15,Afghanistan,Eastern
+2.349950401,0.141602847,Parun,AF1601,Centre,,Nuristan,AF16,Afghanistan,Eastern
+1.443865607,0.074832487,Waygal,AF1602,,,Nuristan,AF16,Afghanistan,Eastern
+0.866198616,0.02785563,Wama,AF1603,,,Nuristan,AF16,Afghanistan,Eastern
+1.607162843,0.096721066,Nurgaram,AF1604,,,Nuristan,AF16,Afghanistan,Eastern
+1.311521851,0.055883133,Duab,AF1605,,,Nuristan,AF16,Afghanistan,Eastern
+1.856576745,0.121345198,Kamdesh,AF1606,,,Nuristan,AF16,Afghanistan,Eastern
+2.546138626,0.202571458,Mandol,AF1607,,,Nuristan,AF16,Afghanistan,Eastern
+2.176429695,0.171134435,Barg-e-Matal,AF1608,,,Nuristan,AF16,Afghanistan,Eastern
+1.245377778,0.050146374,Fayzabad,AF1701,Centre,,Badakhshan,AF17,Afghanistan,North Eastern
+1.977448583,0.106834135,Argo,AF1702,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.617678999,0.07425506,Arghanj Khwah,AF1703,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.175003803,0.061306808,Yaftal-e-Sufla,AF1704,,,Badakhshan,AF17,Afghanistan,North Eastern
+0.795385928,0.0258194,Khash,AF1705,,,Badakhshan,AF17,Afghanistan,North Eastern
+0.894332686,0.032765538,Baharak,AF1706,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.295426201,0.056675335,Darayem,AF1707,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.08370393,0.050115638,Kohistan,AF1708,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.250292375,0.045063509,Yawan,AF1709,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.916568159,0.123812309,Jorm,AF1710,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.999514856,0.085122135,Teshkan,AF1711,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.992436577,0.157875309,Shuhada,AF1712,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.645121185,0.099436938,Shahr-e-Buzorg,AF1713,,,Badakhshan,AF17,Afghanistan,North Eastern
+2.209072759,0.132512334,Raghestan,AF1714,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.534515817,0.077740202,Keshem,AF1715,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.612500889,0.089478196,Warduj,AF1716,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.692322923,0.140838667,Tagab,AF1717,Kishmi Bala,,Badakhshan,AF17,Afghanistan,North Eastern
+2.270975156,0.177022921,Yamgan,AF1718,Girwan,,Badakhshan,AF17,Afghanistan,North Eastern
+3.00497373,0.360003724,Shighnan,AF1719,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.520142687,0.075271982,Khwahan,AF1720,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.999275106,0.145414125,Kofab,AF1721,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.887400182,0.125949867,Dawraz-e-Payin,AF1722,Mai Mai,Dawraz,Badakhshan,AF17,Afghanistan,North Eastern
+2.543728581,0.11456831,Eshkashem,AF1723,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.468335173,0.06386751,Shaki,AF1724,,,Badakhshan,AF17,Afghanistan,North Eastern
+2.194966257,0.162843103,Zebak,AF1725,,,Badakhshan,AF17,Afghanistan,North Eastern
+4.414272828,0.521234989,Koran Wa Monjan,AF1726,,,Badakhshan,AF17,Afghanistan,North Eastern
+2.399129894,0.13730858,Dawraz-e-Bala,AF1727,Nusai,,Badakhshan,AF17,Afghanistan,North Eastern
+10.04542517,1.10578436,Wakhan,AF1728,,,Badakhshan,AF17,Afghanistan,North Eastern
+1.888721582,0.085604059,Taloqan,AF1801,Centre,,Takhar,AF18,Afghanistan,North Eastern
+0.991319668,0.034989191,Hazar Sumuch,AF1802,,,Takhar,AF18,Afghanistan,North Eastern
+0.838238001,0.024595021,Baharak,AF1803,,,Takhar,AF18,Afghanistan,North Eastern
+1.301203616,0.060786658,Bangi,AF1804,,,Takhar,AF18,Afghanistan,North Eastern
+1.059204189,0.032827827,Chal,AF1805,,,Takhar,AF18,Afghanistan,North Eastern
+1.346116152,0.05508137,Namak Ab,AF1806,,,Takhar,AF18,Afghanistan,North Eastern
+1.237334189,0.047851881,Kalafgan,AF1807,,,Takhar,AF18,Afghanistan,North Eastern
+1.85102786,0.12630563,Farkhar,AF1808,,,Takhar,AF18,Afghanistan,North Eastern
+0.900088962,0.039243981,Khwaja Ghar,AF1809,,,Takhar,AF18,Afghanistan,North Eastern
+2.222712064,0.188921907,Rostaq,AF1810,,,Takhar,AF18,Afghanistan,North Eastern
+1.572843869,0.080269646,Eshkmesh,AF1811,Ishkamish,,Takhar,AF18,Afghanistan,North Eastern
+0.949260504,0.033355548,Dasht-e-Qala,AF1812,,,Takhar,AF18,Afghanistan,North Eastern
+2.456722606,0.270142615,Warsaj,AF1813,,,Takhar,AF18,Afghanistan,North Eastern
+0.631329277,0.021639936,Khwaja Bahawuddin,AF1814,,,Takhar,AF18,Afghanistan,North Eastern
+1.19763197,0.037417731,Darqad,AF1815,,,Takhar,AF18,Afghanistan,North Eastern
+1.35230709,0.077533726,Chahab,AF1816,,,Takhar,AF18,Afghanistan,North Eastern
+0.738148847,0.026648839,Yangi Qala,AF1817,,,Takhar,AF18,Afghanistan,North Eastern
+1.64246244,0.06227269,Kunduz,AF1901,Centre,,Kunduz,AF19,Afghanistan,North Eastern
+1.966632347,0.122425371,Chahar Darah,AF1902,,,Kunduz,AF19,Afghanistan,North Eastern
+0.962249433,0.041907968,Ali Abad,AF1903,,,Kunduz,AF19,Afghanistan,North Eastern
+1.912108295,0.108353031,Khan Abad,AF1904,,,Kunduz,AF19,Afghanistan,North Eastern
+2.26086854,0.162275176,Imam Sahib,AF1905,Hazrati Imam Sahib,Kalbad,Kunduz,AF19,Afghanistan,North Eastern
+1.291630456,0.08721947,Dasht-e-Archi,AF1906,,,Kunduz,AF19,Afghanistan,North Eastern
+2.067078409,0.214642346,Qala-e-Zal,AF1907,Qalai Zal,,Kunduz,AF19,Afghanistan,North Eastern
+1.975222565,0.14932978,Aybak,AF2001,Centre,,Samangan,AF20,Afghanistan,Northern
+2.419068097,0.149325545,Hazrat-e-Sultan,AF2002,,,Samangan,AF20,Afghanistan,Northern
+2.563346382,0.213507102,Khuram Wa Sarbagh,AF2003,,,Samangan,AF20,Afghanistan,Northern
+1.402739855,0.119206226,Feroz Nakhchir,AF2004,,,Samangan,AF20,Afghanistan,Northern
+2.575866144,0.237480743,Ruy-e-Duab,AF2005,,,Samangan,AF20,Afghanistan,Northern
+2.127297697,0.134151631,Dara-e-Suf-e-Payin,AF2006,,,Samangan,AF20,Afghanistan,Northern
+3.523591953,0.287820082,Dara-e-Suf-e-Bala,AF2007,,,Samangan,AF20,Afghanistan,Northern
+0.206616177,0.002831592,Mazar-e-Sharif,AF2101,Mazar,Centre,Balkh,AF21,Afghanistan,Northern
+1.835887727,0.115650817,Nahr-e-Shahi,AF2102,,,Balkh,AF21,Afghanistan,Northern
+0.743410952,0.026070665,Dehdadi,AF2103,,,Balkh,AF21,Afghanistan,Northern
+1.783339221,0.108114561,Charkent,AF2104,,,Balkh,AF21,Afghanistan,Northern
+1.178183188,0.056524978,Marmul,AF2105,,,Balkh,AF21,Afghanistan,Northern
+1.011753372,0.054590911,Balkh,AF2106,,,Balkh,AF21,Afghanistan,Northern
+2.326404773,0.179665122,Sholgareh,AF2107,,,Balkh,AF21,Afghanistan,Northern
+2.428444149,0.181992236,Chemtal,AF2108,,,Balkh,AF21,Afghanistan,Northern
+1.95101015,0.166436326,Dawlat Abad,AF2109,,,Balkh,AF21,Afghanistan,Northern
+2.684189102,0.304191377,Khulm,AF2110,,,Balkh,AF21,Afghanistan,Northern
+1.550807934,0.052080542,Char Bolak,AF2111,,,Balkh,AF21,Afghanistan,Northern
+2.78658076,0.148326928,Shortepa,AF2112,,,Balkh,AF21,Afghanistan,Northern
+1.383567724,0.084421889,Kaldar,AF2113,,,Balkh,AF21,Afghanistan,Northern
+2.398006763,0.118117461,Keshendeh,AF2114,,,Balkh,AF21,Afghanistan,Northern
+1.553995934,0.083132797,Zari,AF2115,,,Balkh,AF21,Afghanistan,Northern
+0.444940651,0.008352239,Sharak-e-Hayratan,AF2116,,,Balkh,AF21,Afghanistan,Northern
+2.963596415,0.205766576,Sar-e-Pul,AF2201,Centre,,Sar-e-Pul,AF22,Afghanistan,Northern
+1.881618119,0.133528584,Sayad,AF2202,,,Sar-e-Pul,AF22,Afghanistan,Northern
+5.03160775,0.611257526,Kohestanat,AF2203,,,Sar-e-Pul,AF22,Afghanistan,Northern
+1.395878212,0.058337599,Sozmaqala,AF2204,,,Sar-e-Pul,AF22,Afghanistan,Northern
+1.91360687,0.10575255,Sancharak,AF2205,Sangchark,,Sar-e-Pul,AF22,Afghanistan,Northern
+2.338867285,0.10921565,Gosfandi,AF2206,,,Sar-e-Pul,AF22,Afghanistan,Northern
+2.820321566,0.295542528,Balkhab,AF2207,,,Sar-e-Pul,AF22,Afghanistan,Northern
+6.622905233,0.758326712,Feroz Koh,AF2301,Chagcharan,Centre,Ghor,AF23,Afghanistan,Western
+4.563877652,0.455990768,DoLayna,AF2302,,,Ghor,AF23,Afghanistan,Western
+2.028605445,0.166898895,Dawlatyar,AF2303,,,Ghor,AF23,Afghanistan,Western
+2.14060257,0.127940052,Charsadra,AF2304,,,Ghor,AF23,Afghanistan,Western
+4.174979466,0.433927162,Pasaband,AF2305,,,Ghor,AF23,Afghanistan,Western
+3.957064215,0.422495274,Shahrak,AF2306,,,Ghor,AF23,Afghanistan,Western
+3.239650375,0.381211916,Lal Wa Sarjangal,AF2307,,,Ghor,AF23,Afghanistan,Western
+3.363115159,0.354443102,Taywarah,AF2308,,,Ghor,AF23,Afghanistan,Western
+2.760447883,0.262955381,Tolak,AF2309,,,Ghor,AF23,Afghanistan,Western
+3.403220785,0.25675305,Saghar,AF2310,,,Ghor,AF23,Afghanistan,Western
+1.366017964,0.058475079,Nili,AF2401,Centre,,Daykundi,AF24,Afghanistan,Central Highland
+2.780336118,0.178136372,Shahrestan,AF2402,,,Daykundi,AF24,Afghanistan,Central Highland
+2.202294106,0.152837773,Ashtarlay,AF2403,Ishterlai,,Daykundi,AF24,Afghanistan,Central Highland
+2.109396268,0.160233388,Khadir,AF2404,,,Daykundi,AF24,Afghanistan,Central Highland
+1.747355259,0.092805269,Kiti,AF2405,,,Daykundi,AF24,Afghanistan,Central Highland
+2.746036984,0.223134686,Miramor,AF2406,,,Daykundi,AF24,Afghanistan,Central Highland
+2.540200562,0.175273986,Sang-e-Takht,AF2407,,,Daykundi,AF24,Afghanistan,Central Highland
+2.722243554,0.129023835,Kajran,AF2408,,,Daykundi,AF24,Afghanistan,Central Highland
+4.610172773,0.363310609,Gizab,AF2409,Patoo,,Daykundi,AF24,Afghanistan,Central Highland
+2.407296935,0.169205142,Tirinkot,AF2501,Centre,,Uruzgan,AF25,Afghanistan,Southern
+2.426042844,0.154181631,Dehrawud,AF2502,,,Uruzgan,AF25,Afghanistan,Southern
+3.600466424,0.29226067,Chora,AF2503,,,Uruzgan,AF25,Afghanistan,Southern
+2.457368616,0.17881258,Shahid-e-Hassas,AF2504,Charchino,,Uruzgan,AF25,Afghanistan,Southern
+3.035399771,0.250696063,Khas Uruzgan,AF2505,,,Uruzgan,AF25,Afghanistan,Southern
+2.128809375,0.175619197,Qalat,AF2601,Centre,,Zabul,AF26,Afghanistan,Southern
+2.063452714,0.143186824,Tarnak Wa Jaldak,AF2602,Shahr-e-Safa,,Zabul,AF26,Afghanistan,Southern
+2.892224875,0.218297683,Shinkay,AF2603,,,Zabul,AF26,Afghanistan,Southern
+1.54672249,0.106882878,Mizan,AF2604,,,Zabul,AF26,Afghanistan,Southern
+2.305945932,0.144609591,Arghandab,AF2605,,,Zabul,AF26,Afghanistan,Southern
+2.171456757,0.164940587,Shah Joi,AF2606,,,Zabul,AF26,Afghanistan,Southern
+2.63702626,0.157546239,Daychopan,AF2607,,,Zabul,AF26,Afghanistan,Southern
+1.248855471,0.047796951,Atghar,AF2608,,,Zabul,AF26,Afghanistan,Southern
+2.191335383,0.120970152,Nawbahar,AF2609,,,Zabul,AF26,Afghanistan,Southern
+2.706130147,0.275392794,Shamul Zayi,AF2610,,,Zabul,AF26,Afghanistan,Southern
+1.788238695,0.104217539,Kakar,AF2611,Khak-e-Afghan,,Zabul,AF26,Afghanistan,Southern
+1.246319376,0.07308543,Kandahar,AF2701,Centre,,Kandahar,AF27,Afghanistan,Southern
+1.102757248,0.052000571,Arghandab,AF2702,,,Kandahar,AF27,Afghanistan,Southern
+4.421394172,0.388346778,Daman,AF2703,,,Kandahar,AF27,Afghanistan,Southern
+3.401272964,0.562076941,Panjwayi,AF2704,,,Kandahar,AF27,Afghanistan,Southern
+1.26784133,0.063933811,Zheray,AF2705,,,Kandahar,AF27,Afghanistan,Southern
+3.623114463,0.312873829,Shah Wali Kot,AF2706,,,Kandahar,AF27,Afghanistan,Southern
+2.218086562,0.15695507,Khakrez,AF2707,,,Kandahar,AF27,Afghanistan,Southern
+3.515311418,0.369983995,Arghestan,AF2708,,,Kandahar,AF27,Afghanistan,Southern
+2.082039187,0.137250277,Ghorak,AF2709,,,Kandahar,AF27,Afghanistan,Southern
+2.426827372,0.293565347,Maywand,AF2710,,,Kandahar,AF27,Afghanistan,Southern
+3.599440235,0.536279511,Spin Boldak,AF2711,,,Kandahar,AF27,Afghanistan,Southern
+1.861903182,0.122576426,Nesh,AF2712,,,Kandahar,AF27,Afghanistan,Southern
+1.654082799,0.085667827,Miyanshin,AF2713,,,Kandahar,AF27,Afghanistan,Southern
+2.888352703,0.390345761,Shorabak,AF2714,,,Kandahar,AF27,Afghanistan,Southern
+3.367558339,0.302046343,Maruf,AF2715,,,Kandahar,AF27,Afghanistan,Southern
+4.682831262,1.262378979,Reg,AF2716,Shiga,Registan,Kandahar,AF27,Afghanistan,Southern
+2.304777006,0.217758713,Shiberghan,AF2801,Centre,,Jawzjan,AF28,Afghanistan,Northern
+1.91088531,0.20980713,Khwaja Dukoh,AF2802,,,Jawzjan,AF28,Afghanistan,Northern
+1.049982677,0.049223395,Khanaqa,AF2803,,,Jawzjan,AF28,Afghanistan,Northern
+1.386975144,0.089270937,Mingajik,AF2804,Farary,,Jawzjan,AF28,Afghanistan,Northern
+1.237807983,0.088172284,Qush Tepa,AF2805,,,Jawzjan,AF28,Afghanistan,Northern
+1.385176494,0.088246033,Khamyab,AF2806,Kham Ab,,Jawzjan,AF28,Afghanistan,Northern
+0.639597816,0.015729165,Aqcha,AF2807,,,Jawzjan,AF28,Afghanistan,Northern
+1.973112491,0.118994962,Fayzabad,AF2808,,,Jawzjan,AF28,Afghanistan,Northern
+1.281601196,0.071607845,Mardyan,AF2809,,,Jawzjan,AF28,Afghanistan,Northern
+1.65426822,0.125396733,Qarqin,AF2810,,,Jawzjan,AF28,Afghanistan,Northern
+1.302636066,0.047732112,Darzab,AF2811,,,Jawzjan,AF28,Afghanistan,Northern
+0.563428484,0.014691141,Maymana,AF2901,Centre,,Faryab,AF29,Afghanistan,Northern
+3.64637311,0.267442473,Pashtun Kot,AF2902,,,Faryab,AF29,Afghanistan,Northern
+1.239294134,0.055528668,Khwaja Sabz Posh,AF2903,Khwaja Sabz Posh-i-Wali,,Faryab,AF29,Afghanistan,Northern
+2.323963208,0.158203938,Almar,AF2904,,,Faryab,AF29,Afghanistan,Northern
+2.361341225,0.112226621,Bilcheragh,AF2905,,,Faryab,AF29,Afghanistan,Northern
+2.980534503,0.196051206,Shirin Tagab,AF2906,,,Faryab,AF29,Afghanistan,Northern
+2.886734474,0.252326266,Qaysar,AF2907,,,Faryab,AF29,Afghanistan,Northern
+2.340629552,0.185525384,Garzewan,AF2908,,,Faryab,AF29,Afghanistan,Northern
+2.752659453,0.273912178,Dawlat Abad,AF2909,,,Faryab,AF29,Afghanistan,Northern
+2.946873741,0.228296334,Kohistan,AF2910,,,Faryab,AF29,Afghanistan,Northern
+1.83372413,0.107567396,Qaram Qul,AF2911,,,Faryab,AF29,Afghanistan,Northern
+1.18197609,0.081937449,Qurghan,AF2912,,,Faryab,AF29,Afghanistan,Northern
+0.987543274,0.038001725,Andkhoy,AF2913,,,Faryab,AF29,Afghanistan,Northern
+1.384111084,0.095374945,Khan-e-Char Bagh,AF2914,,,Faryab,AF29,Afghanistan,Northern
+2.11266401,0.173661587,Lashkargah,AF3001,Centre,,Hilmand,AF30,Afghanistan,Southern
+3.296583885,0.558871868,Nad-e-Ali,AF3002,,,Hilmand,AF30,Afghanistan,Southern
+1.279212852,0.057325724,Nawa-e-Barakzaiy,AF3003,,,Hilmand,AF30,Afghanistan,Southern
+2.16513074,0.155521181,Nahr-e-Saraj,AF3004,Grishk,,Hilmand,AF30,Afghanistan,Southern
+3.321437686,0.441656721,Washer,AF3005,,,Hilmand,AF30,Afghanistan,Southern
+6.136305427,1.559304068,Garmser,AF3006,,,Hilmand,AF30,Afghanistan,Southern
+4.263352,0.39635973,Nawzad,AF3007,,,Hilmand,AF30,Afghanistan,Southern
+1.331751535,0.060820624,Sangin,AF3008,,,Hilmand,AF30,Afghanistan,Southern
+1.942635835,0.12493662,Musa Qala,AF3009,,,Hilmand,AF30,Afghanistan,Southern
+3.464756011,0.218107143,Kajaki,AF3010,,,Hilmand,AF30,Afghanistan,Southern
+4.344161914,0.685163502,Reg-i-Khan Nishin,AF3011,Reg,,Hilmand,AF30,Afghanistan,Southern
+4.686342944,0.372193763,Baghran,AF3012,,,Hilmand,AF30,Afghanistan,Southern
+4.259699961,0.846127213,Deh-e-Shu,AF3013,,,Hilmand,AF30,Afghanistan,Southern
+1.230868177,0.064297187,Qala-e-Naw,AF3101,Centre,,Badghis,AF31,Afghanistan,Western
+2.216778462,0.176803576,Ab Kamari,AF3102,,,Badghis,AF31,Afghanistan,Western
+2.542724824,0.123742859,Muqur,AF3103,,,Badghis,AF31,Afghanistan,Western
+3.412109708,0.338367749,Qadis,AF3104,,,Badghis,AF31,Afghanistan,Western
+4.305470792,0.439906671,Bala Murghab,AF3105,,,Badghis,AF31,Afghanistan,Western
+4.589638401,0.701492729,Jawand,AF3106,,,Badghis,AF31,Afghanistan,Western
+2.213995017,0.19355615,Ghormach,AF3107,,,Badghis,AF31,Afghanistan,Western
+0.414471718,0.00809393,Hirat,AF3201,Centre,,Hirat,AF32,Afghanistan,Western
+2.183432007,0.135435468,Injil,AF3202,,,Hirat,AF32,Afghanistan,Western
+3.428601161,0.256948968,Guzara,AF3203,Nizam-i-Shahid,,Hirat,AF32,Afghanistan,Western
+2.742904739,0.194309863,Karukh,AF3204,,,Hirat,AF32,Afghanistan,Western
+2.906162442,0.244992413,Zindajan,AF3205,,,Hirat,AF32,Afghanistan,Western
+2.239731274,0.184251026,Pashtun Zarghun,AF3206,,,Hirat,AF32,Afghanistan,Western
+2.776442548,0.282501363,Kushk,AF3207,Rubat-i-Sangi,,Hirat,AF32,Afghanistan,Western
+4.563468243,0.597296266,Gulran,AF3208,,,Hirat,AF32,Afghanistan,Western
+7.048567316,0.961620761,Adraskan,AF3209,,,Hirat,AF32,Afghanistan,Western
+2.492593646,0.162553527,Kushk-e-Kuhna,AF3210,,,Hirat,AF32,Afghanistan,Western
+4.714833253,0.711014595,Ghoryan,AF3211,,,Hirat,AF32,Afghanistan,Western
+2.718739688,0.255513404,Obe,AF3212,Obi,,Hirat,AF32,Afghanistan,Western
+2.612590244,0.216461449,Kohsan,AF3213,,,Hirat,AF32,Afghanistan,Western
+6.167681681,0.671098997,Shindand,AF3214,,,Hirat,AF32,Afghanistan,Western
+2.477213877,0.197520963,Farsi,AF3215,,,Hirat,AF32,Afghanistan,Western
+3.023734534,0.244750083,Chisht-e-Sharif,AF3216,,,Hirat,AF32,Afghanistan,Western
+3.870752484,0.326498459,Farah,AF3301,Centre,,Farah,AF33,Afghanistan,Western
+1.074138965,0.041174199,Pushtrod,AF3302,,,Farah,AF33,Afghanistan,Western
+2.505031364,0.175550888,Khak-e-Safed,AF3303,,,Farah,AF33,Afghanistan,Western
+3.085064563,0.336752172,Qala-e-Kah,AF3304,,,Farah,AF33,Afghanistan,Western
+2.809586646,0.263635831,Shibkoh,AF3305,,,Farah,AF33,Afghanistan,Western
+4.628440856,0.528299015,Bala Buluk,AF3306,,,Farah,AF33,Afghanistan,Western
+5.124019507,1.015075082,Anar Dara,AF3307,,,Farah,AF33,Afghanistan,Western
+2.412982322,0.231274997,Bakwa,AF3308,,,Farah,AF33,Afghanistan,Western
+3.599303817,0.508983214,Lash-e-Juwayn,AF3309,,,Farah,AF33,Afghanistan,Western
+5.504266692,0.673926194,Gulistan,AF3310,,,Farah,AF33,Afghanistan,Western
+6.127699815,0.61938912,Pur Chaman,AF3311,,,Farah,AF33,Afghanistan,Western
+1.845007038,0.111367225,Zaranj,AF3401,Centre,,Nimroz,AF34,Afghanistan,Southern
+2.291306284,0.108999621,Kang,AF3402,,,Nimroz,AF34,Afghanistan,Southern
+5.292605353,0.927719587,Chakhansur,AF3403,Asl-i-Chakhansur,,Nimroz,AF34,Afghanistan,Southern
+5.930108664,1.942898207,Char Burjak,AF3404,,,Nimroz,AF34,Afghanistan,Southern
+4.126014998,0.741226753,Khashrod,AF3405,,,Nimroz,AF34,Afghanistan,Southern

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 3, "F_CODE": 5004, "TYPE": "Police", "NAME": "Police District 1", "COMMENTS": null, "GlobalID": "{BC9291A7-A706-4350-B4A4-CC56A3FDDC26}", "X_Coord": "62.2187294118919", "Y_Coord": "34.3511758722788", "Latitude": "34° 21' 4.233\" N", "Longitude": "62° 13' 7.426\" E" }, "geometry": { "type": "Point", "coordinates": [ 62.218729411891893, 34.351175872278766 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "F_CODE": 5004, "TYPE": "Police", "NAME": "Police HQ", "COMMENTS": null, "GlobalID": "{4369B339-E2CE-44BA-9B5E-59AACB342555}", "X_Coord": "62.2002161392006", "Y_Coord": "34.3435696728975", "Latitude": "34° 20' 36.851\" N", "Longitude": "62° 12' 0.778\" E" }, "geometry": { "type": "Point", "coordinates": [ 62.200216139200599, 34.34356967289753 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "F_CODE": 5004, "TYPE": "Police", "NAME": "Police Training Center", "COMMENTS": null, "GlobalID": "{6C23B19B-BD93-4967-AF9C-E37A367F4EE3}", "X_Coord": "62.2412486940049", "Y_Coord": "34.2184086634772", "Latitude": "34° 13' 6.271\" N", "Longitude": "62° 14' 28.495\" E" }, "geometry": { "type": "Point", "coordinates": [ 62.241248694004923, 34.218408663477213 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "F_CODE": 5004, "TYPE": "Police", "NAME": "West Police Zone", "COMMENTS": null, "GlobalID": "{6B90B9B1-8E9C-460C-9304-7516D721984D}", "X_Coord": "62.2403563958587", "Y_Coord": "34.2163099791312", "Latitude": "34° 12' 58.716\" N", "Longitude": "62° 14' 25.283\" E" }, "geometry": { "type": "Point", "coordinates": [ 62.240356395858697, 34.216309979131253 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 1, "F_CODE": 5004, "TYPE": "Police", "NAME": "Police Office District 3", "COMMENTS": null, "GlobalID": "{92F393EE-182A-40C1-8619-E776B0D529C7}", "X_Coord": "62.190937400859", "Y_Coord": "34.3541747730054", "Latitude": "34° 21' 15.029\" N", "Longitude": "62° 11' 27.375\" E" }, "geometry": { "type": "Point", "coordinates": [ 62.190937400858985, 34.354174773005404 ] } }
+]
+}

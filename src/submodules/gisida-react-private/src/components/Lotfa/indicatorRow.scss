@@ -1,0 +1,99 @@
+table.blueTable {
+    border: 1px solid #1C6EA4;
+    width: 90%;
+    text-align: left;
+    border-collapse: collapse;
+    margin-left: 15px;
+
+  .security & {
+    margin-top: 12px;
+  }  
+}
+  table.blueTable td, table.blueTable th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  table.blueTable tbody td {
+    font-size: 13px;
+  }
+ .td-red {
+    background-color: #DB4053;
+    text-align: center;
+    color: white;
+  }
+ .td-green {
+    background-color: #B3E58B;
+    text-align: center;
+  }
+  table.blueTable tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+  h4 {
+      text-align: left;
+      padding: 5px 15px;
+  }
+  div.profile-indicators ul div div div hr {
+    border-top: 1.2px solid #e8e8e8 !important;
+  }
+  .crime-attack {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+  }
+  .badge-label {
+    text-align: left;
+    font-size: 13px;
+    margin-left: 15px;
+
+    .security & span {
+      cursor: pointer;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  .status-badge {
+
+    text-align: center;
+    width: 130px;
+    padding: 10px;
+    margin: 8px 15px 4px;
+    font-size: 40px;
+    height: 65px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: top;
+
+  }
+  .ca-grey {
+    background-color: grey;
+    color: white;
+  }
+  .ca-green {
+    background-color: #B3E58B;
+  }
+  .ca-red {
+    background-color: red;
+    color: white;
+  }
+  .ca-orange {
+    background-color: #FF9F35;
+  }
+  .ca-yellow {
+    background-color: #FFE13F;
+  }
+
+  div.profile-indicators div.crime-container {
+    text-align: center;
+  }

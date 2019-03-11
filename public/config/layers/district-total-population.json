@@ -1,0 +1,45 @@
+{
+    "label": "District Total Population",
+        "source": {
+            "type": "vector",
+            "data": "data/Afghan_District_Population.csv",
+            "layer": "afghan_districts-02vk3k",
+            "url": "mapbox://ona.5rf27hqz",
+            "join": [
+                "ADM2_PCODE",
+                "ADM2_PCODE"
+            ]
+        },
+        "type": "fill",
+        "property": "total_pop",
+        "categories": {
+          "breaks": "yes",
+          "color": "Reds",
+          "clusters": 5
+        },
+        
+
+        "popup": {
+            "header": "district",
+            "body": " <p style=text-align:left;> <b>Total Population:</b> {{total_pop}}<br><b>Urban Population:</b> {{urb_total}}<br><b>Rural Population:</b> {{rural_total}}<span style=float:right;>"
+        },
+        "visible": false,
+        "credit": "Total population",
+        "category": "Demographics",
+        "charts": {
+            "pie": {
+                "type": "breaks",
+                "level": "district",
+                "column": "total_pop",
+                "suffix": "%"
+            },
+            "primary": {
+                "type": "column",
+                "spec": {
+                    "type": "percent",
+                    "level": "district",
+                    "column": "total_pop"
+                }
+            }
+        }
+    }

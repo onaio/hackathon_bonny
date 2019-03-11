@@ -1,0 +1,152 @@
+.summary-wrapper {
+    background-color: #f7f7f7;
+    margin-left: 80px;
+    padding: 22px 33px;
+    min-height: 100vh;
+  
+    // todo - set up a GRID!!
+    & > * {
+      max-width: 1000px;
+    }
+
+    .summary-nav {
+        ul {
+          margin: 25px 0;
+          padding: 0;
+      
+          li {
+            display: inline-block;
+            padding: 11px 22px;
+            margin: 0 0 4px;
+            border-radius: 3px;
+      
+            a {
+              color: #333;
+              cursor: pointer;
+            }
+      
+            &.active {
+              background-color: #b3e7f8;
+              cursor: pointer;
+      
+              a:hover,
+              a:active,
+              a:focus {
+                text-decoration: none;
+              }
+      
+              @media print {
+                text-decoration: underline;
+                font-weight: bold;
+              }
+            }
+          }
+        }
+      }
+    }
+  
+  .summary-header {
+    border-bottom: 2px solid #cdcdcd;
+  
+    h3 {
+      color: rgb(0, 153, 255);
+      margin: 0 0 15px;
+      display: inline-block;
+    }
+  
+    span {
+      color: rgb(0, 153, 255);
+      font-size: 18px;
+      text-transform: uppercase;
+      padding-left: 14px;
+    }
+  
+    .year-select {
+      float: right;
+      border: none;
+      font-size: 17px;
+      margin-top: 4px;
+      color: #333;
+    }
+  }
+  
+  .summary-card {
+    border-radius: 4px;
+    background-color: #fff;
+    margin-bottom: 28px;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.4); // these zeros are failing the tests but should not!
+
+    .gender-val-toggle {
+      float: right;
+      margin: -54px 24px;
+      padding: 18px 0px;
+      cursor: pointer;
+      color: #0099ff;
+    }
+
+    .infographics-filter {
+      padding: 18px 12px;
+      float: right;
+    }
+
+    h5 {
+      display: inline-block;
+      color: rgb(0, 153, 255);
+      font-size: 16px;
+      margin: 0 24px;
+      padding: 18px 0;
+    }
+  
+    @media print {
+      border: 1px solid #ccc;
+    }
+
+    .partner-performance-wrapper {
+        display: flex;
+        flex-direction: row;
+        padding: 0 24px;
+      
+        p {
+          margin-top: 18px;
+          color: #666;
+          font-size: 12px;
+          font-style: italic;
+        }
+      
+        .actual-planned {
+          flex: 1 1 60%;
+          max-width: 60%;
+        }
+      
+        .partner-percent {
+          flex: 1 1 40%;
+          max-width: 40%;
+          text-align: center;
+        }
+      
+        @media screen and (max-width: 800px) {
+          flex-wrap: wrap;
+      
+          .actual-planned,
+          .partner-percent {
+            flex-basis: 100%;
+            max-width: 100%;
+          }
+        }
+      }
+  }
+  @media only screen and (max-width: 508px) {
+    .summary-card .gender-val-toggle {
+    bottom: -162px;
+    float: right;
+    margin: -31px 24px;
+    padding: 18px 0px;
+    cursor: pointer;
+    color: #0099ff;
+    }
+    .summary-card .infographics-filter {
+      margin-top: -27px;
+    }
+  }
+  
+  

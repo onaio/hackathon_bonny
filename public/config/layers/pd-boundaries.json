@@ -1,0 +1,27 @@
+{
+    "label": "PD Boundaries",
+    "source": {
+        "type": "geojson",
+        "data": "data/PD_boundaries.geojson",
+        "join": [
+        "OBJECTID",
+        "OBJECTID"
+    ]
+},
+"type": "line",
+"paint": {
+    "line-width": 1.5,
+    "line-color": "#7E7D7C",
+    "line-opacity": 0.5
+},
+    "location": {
+        "zoom": 9.505873279884117,
+        "center": {
+            "lng": 69.13155473084771,
+            "lat": 34.50960383103761
+        }
+    },
+    "visible": false,
+    "credit": "PD Boundaries",
+    "category": "Police Information"
+}

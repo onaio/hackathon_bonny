@@ -1,0 +1,58 @@
+{
+    "label": "Kabul Male PD Population",
+    "source": {
+        "type": "vector",
+        "data": "data/pd_population.csv",
+        "layer": "PD_boundaries-0dpe0t",
+        "url": "mapbox://ona.7ebduzh1",
+        "join": [
+            "PD_Name",
+            "pd_name"
+        ]
+    },
+    "type": "fill",
+    "property": "total_male",
+    "categories": {
+        "breaks": "yes",
+        "color": "Greens",
+        "clusters": 5
+    },
+    "labels": {
+        "data": "data/PD_boundaries_points.csv",
+        "label": "<b> {{total_male}} </b>",
+        "join": [
+            "PD_Name",
+            "pd_name"
+        ],
+        "coordinates": [
+            "longitude",
+            "latitude"
+        ],
+        "minZoom": 4.5,
+        "height": 30,
+        "width": 30
+    },
+    "popup": {
+        "header": "pd_name",
+        "body": " <p style=text-align:left;> <b>Total Male Population:</b> {{total_male}}<span style=float:right;>"
+    },
+    "visible": false,
+    "credit": "Total male population",
+    "category": "Demographics",
+    "charts": {
+        "pie": {
+            "type": "breaks",
+            "level": "pd_name",
+            "column": "total_male",
+            "suffix": "%"
+        },
+        "primary": {
+            "type": "column",
+            "spec": {
+                "type": "percent",
+                "level": "pd_name",
+                "column": "total_male"
+            }
+        }
+    }
+}
