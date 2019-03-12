@@ -2,11 +2,11 @@
   "APP": {
     "mapConfig": {
       "container": "map",
-      "style": "mapbox://styles/ona/cjqqo5xeu1li12sqj82hfrf6u",
-      "zoom": 10.895873279884117,
+      "style": "mapbox://styles/ona/cjt5rsvlf02081ftajhfcl6rs",
+      "zoom": 5.3300000,
       "center": {
-        "lng": 69.13155473084771,
-        "lat": 34.50960383103761
+        "lng": 37.424125,
+        "lat": 0.407324
       }
     },
     "apiHost": "api.lotfa.org",
@@ -16,12 +16,12 @@
     "appColor": "#0097CF",
     "appName": "",
     "appNameDesc": "AFRO: Non Polio AFP (NPAFP)",
-    "password": ["lotfa"]
+    "password": ["polio"]
   },
   "STYLES": [
     {
       "label": "Default",
-      "url": "mapbox://styles/ona/cjqqo5xeu1li12sqj82hfrf6u"
+      "url": "mapbox://styles/ona/cjt5rsvlf02081ftajhfcl6rs"
     }, 
     {
       "label": "Topography",
@@ -34,12 +34,11 @@
   ],
   "LAYERS": {
     "Boundaries & Labels": [
-      "province-admin",
-      "district-admin",
-      "pd-juridictions-boundaries",
-      "province-admin-labels",
-      "district-admin-labels",
-      "pd-juridictions-labels"
-      ]
+      "county-admin",
+      "county-admin-labels"
+      ],
+    "Rates": [
+      "npafp-rates"
+    ]  
   }
 }

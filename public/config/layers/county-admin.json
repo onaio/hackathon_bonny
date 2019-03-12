@@ -1,0 +1,16 @@
+{
+  "label": "County Boundaries",
+  "source": {
+    "type": "vector",
+    "layer": "kenyan_counties-9z7g18",
+    "url": "mapbox://ona.cwqxy1no"
+  },
+  "type": "line",
+  "paint": {
+    "line-width": 1,
+    "line-color": "#aaa",
+    "line-opacity": 0.5
+  },
+  "visible": false,
+  "category": "Boundaries & Labels"
+}

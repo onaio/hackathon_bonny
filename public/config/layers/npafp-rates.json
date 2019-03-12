@@ -1,0 +1,57 @@
+{
+    "label": "NPAFP Rate for Kenya (2018-2019)",
+    "source": {
+        "type": "vector",
+        "data": "data/npafp_rate.csv",
+        "layer": "kenyan_counties-9z7g18",
+        "url": "mapbox://ona.cwqxy1no",
+        "join": [
+            "COUNTY",
+            "county"
+        ]
+    },
+    "type": "fill",
+    "property": "npafp_rate",
+    "categories": {
+        "breaks": "no",
+        "label": [
+            "No Report",
+            "Less than 2",
+            ">= 2"
+        ],
+        "limit": [0,2,11],
+        "color": [
+            "#FF0000",
+            "#FFFF00",
+            "#00B050"
+        ]
+    },
+    "aggregate": {
+        "timeseries": {
+            "field": "period"
+        }
+    },
+    "popup": {
+        "header": "county",
+        "body": " <p style=text-align:left;> <b>County:</b> {{county}}<br><b>NPAFP Rate:</b> {{npafp_rate}}<span style=float:right;>"
+    },
+    "visible": false,
+    "credit": "WHO",
+    "category": "Rates",
+    "charts": {
+        "pie": {
+            "type": "breaks",
+            "level": "county",
+            "column": "npafp_rate",
+            "suffix": "%"
+        },
+        "primary": {
+            "type": "column",
+            "spec": {
+                "type": "percent",
+                "level": "county",
+                "column": "npafp_rate"
+            }
+        }
+    }
+}
