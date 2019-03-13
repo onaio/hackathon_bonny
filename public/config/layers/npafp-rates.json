@@ -7,7 +7,7 @@
         "url": "mapbox://ona.cwqxy1no",
         "join": [
             "COUNTY",
-            "county"
+            "COUNTY"
         ]
     },
     "type": "fill",
