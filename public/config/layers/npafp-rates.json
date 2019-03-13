@@ -33,7 +33,7 @@
     },
     "popup": {
         "header": "county",
-        "body": " <p style=text-align:left;> <b>County:</b> {{county}}<br><b>NPAFP Rate:</b> {{npafp_rate}}<span style=float:right;>"
+        "body": " <p style=text-align:left;> <b>County:</b> {{COUNTY}}<br><b>NPAFP Rate:</b> {{npafp_rate}}<span style=float:right;>"
     },
     "visible": false,
     "credit": "WHO",
@@ -41,7 +41,7 @@
     "charts": {
         "pie": {
             "type": "breaks",
-            "level": "county",
+            "level": "COUNTY",
             "column": "npafp_rate",
             "suffix": "%"
         },
@@ -49,7 +49,7 @@
             "type": "column",
             "spec": {
                 "type": "percent",
-                "level": "county",
+                "level": "COUNTY",
                 "column": "npafp_rate"
             }
         }
