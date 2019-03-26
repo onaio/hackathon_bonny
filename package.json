@@ -1,5 +1,5 @@
 {
-  "name": "rohingya",
+  "name": "npafp",
   "version": "0.0.1",
   "description": "UNICEF Realtime Monitoring Platform",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/onaio/rohingya.git"
   },
   "author": "Ona Systems Inc.",
-  "license": "UNLICENSED",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/onaio/rohingya/issues"
   },
