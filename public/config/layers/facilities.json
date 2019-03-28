@@ -1,0 +1,124 @@
+{
+    "label": "Health facilities",
+    "source": {
+        "type": "geojson",
+        "featureType": "Point",
+        "data": [
+           808
+        ],
+        "join": [
+            "name_of_facility_visited",
+            "name_of_facility_visited"
+           
+        ],
+        "minzoom": 2,
+        "relation": {
+            "type": "one-to-one",
+            "key": [
+                "one",
+                "one"
+            ]
+    }
+    },
+    "type": "symbol",
+    "paint": {
+        "text-color": "#0000ff",
+        "text-halo-color": "#fff",
+        "text-halo-width": 1.3,
+        "text-halo-blur": 1
+    },
+    "layout": {
+        "text-size": 10,
+        "text-offset": [
+            0,
+            2
+        ],
+        "icon-image": "suitcase-15",
+        "icon-allow-overlap": true
+    },
+    "categories": {
+        "breaks": "no",
+        "label": [
+            "Healthy facility"
+        ],
+        "type": [
+            "Health facility"
+        ],
+        "color": [
+            "#000000"
+        ]
+    },
+    "geo-column": "gps_beginning",
+    
+
+    "detail-view": {
+        "UID": "name_of_facility_visited",
+        "title": {
+            "prop": "name_of_facility_visited",
+            "mustache": "{{{name_of_facility_visited}}}"
+        },
+        "sub-title": {
+            "prop": "",
+            "mustache": ""
+        },
+        "basic-info": [
+            {
+                "value": {
+                    "prop": [
+                        "Longitude",
+                        "Latitude"
+                    ],
+                    "join": ", "
+                },
+                "icon": "screenshot",
+                "alt": "GPS coordinates"
+            },
+            {
+                "value": "date_of_visit",
+                "icon": "pushpin",
+                "alt": "Date of visit",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": "countries",
+                "icon": {
+                    "FA": "bookmark"
+                },
+                "alt": "District",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": "community_location/posto",
+                "icon": "home",
+                "alt": "Posto"
+            },
+            {
+                "value": "community_location/localidade",
+                "icon": {
+                    "FA": "building"
+                },
+                "alt": "Localidade"
+            },
+            {
+                "value": "community_details/qn8",
+                "icon": {
+                    "FA": "layer-group"
+                },
+                "alt": "Número de famílias existentes"
+            }
+        ]
+    },
+    "popup": {
+        "join": [
+            "name_of_facility_visited",
+            "name_of_facility_visited"
+
+        ],
+        "body": "{{name_of_facility_visited}}"
+    },
+    
+    "visible": false,
+    "credit": "Zoom to see more health facilities",
+    "nondefault": true,
+    "category": "Indicator"
+}
