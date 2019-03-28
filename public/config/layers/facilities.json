@@ -82,7 +82,63 @@
             ""
         ]
     },
-
+    "data-parse": {
+    "type_of_facility_visited": {
+        "type": "single",
+        "key": {
+            "TEACHING_HOSP": "Teaching Hospital",
+            "GENERAL_HOSP": "General Hospital",
+            "STATE_HOSP": "State Hospital",
+            "DISTRICT_HOSP": "District Hospital", 
+            "PRIVATE_FACILITY": "Private Facility",
+            "TRAD_HEALER": "Traditional Healer",
+            "SPIRIT_HEALER": "Spiritual Healer",
+            "PATENT_MED_VENDORS": "Patient Medicine Vendors",
+            "OTHER_NON_ORTHORDOX_HC": "Other Non-Orthordox HC",
+           "BONE_SETTER": "Bone Setter",
+            "TRAD_BIRTH_ATTENDANT": "Traditional Birth Attendant",
+            "FAITH_BASED": "Faith Based Home",
+            "CMA": "CMA",
+            "CSI": "Integrated Health Centre",
+            "MILITARY": "Military Hospital",
+            "KINESITHERAPIE": "Physiotherapy Centre"   
+        }
+      },
+      "priority_level": {
+        "type": "single",
+        "key": {
+          "Hi": "Highest",
+          "H": "High",
+          "M": "Medium",
+          "L": "Low",
+          "OTHER_NON_FS": "Other non focal site"
+        }
+      },
+      "supervised_by_dsno": {
+        "type": "single",
+        "key": {
+           "LESS_THAN_1_WEEK": "Less than one week",
+            "1_2_WEEKS": "1 - 2 weeks",
+            "1_MONTH": "1 Month",
+            "2_3_MONTHS": "2 - 3 Months",
+            "MORE_THAN_3_MONTHS": "More than 3 Month",
+            "MORE_THAN_6_MONTHS": "More than 6 Month",
+            "NOT_IN_THE_PAST_1_YEAR": "Not supervised in the past 1 year"
+        }
+      },
+      "supervised_by_who": {
+        "type": "single",
+        "key": {
+           "LESS_THAN_1_WEEK": "Less than one week",
+            "1_2_WEEKS": "1 - 2 weeks",
+            "1_MONTH": "1 Month",
+            "2_3_MONTHS": "2 - 3 Months",
+            "MORE_THAN_3_MONTHS": "More than 3 Month",
+            "MORE_THAN_6_MONTHS": "More than 6 Month",
+            "NOT_IN_THE_PAST_1_YEAR": "Not supervised in the past 1 year"
+        }
+      }
+    },
     "detail-view": {
         "UID": "name_of_facility_visited",
         "title": {
