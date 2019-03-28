@@ -34,7 +34,7 @@
             2
         ],
         "icon-image": "suitcase-15",
-        "icon-allow-overlap": false
+        "icon-allow-overlap": true
     },
     "categories": {
         "breaks": "no",
@@ -53,21 +53,31 @@
     "aggregate": {
         "filter": [
             "states",
-            "districts"
+            "districts",
+            "type_of_facility_visited",
+            "ist"
             ],
         "accepted-filter-values": [
+            "all",
+            "all",
             "all",
             "all"
         ],
         "filter-label": [
              "COUNTY",
-             "DISTRICT"
+             "DISTRICT",
+             "FACILITY TYPE",
+             "IST"
         ],
         "sub-filter": [
+            "",
+            "",
             "",
             ""
         ],
         "accepted-sub-filter-values": [
+            "",
+            "",
             "",
             ""
         ]
@@ -98,11 +108,28 @@
             {
                 "value": "date_of_visit",
                 "icon": "pushpin",
-                "alt": "Date of visit",
+                "alt": "Date of Visit",
                 "useAltAsPrefix": true
             },
             {
-                "value": "countries",
+                "value": "states",
+                "icon": {
+                    "FA": "bookmark"
+                },
+                "alt": "County",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": "ist",
+                "icon": {
+                    "FA": "bookmark"
+                },
+                "alt": "IST",
+                "useAltAsPrefix": true
+
+            },
+            {
+                "value": "Districts",
                 "icon": {
                     "FA": "bookmark"
                 },
@@ -110,23 +137,42 @@
                 "useAltAsPrefix": true
             },
             {
-                "value": "community_location/posto",
-                "icon": "home",
-                "alt": "Posto"
+                "value": "wards",
+                "icon": {
+                    "FA": "bookmark"
+                },
+                "alt": "Name of Health Area",
+                "useAltAsPrefix": true
             },
             {
-                "value": "community_location/localidade",
-                "icon": {
-                    "FA": "building"
-                },
-                "alt": "Localidade"
+                "value": "type_of_facility_visited",
+                "icon": "pushpin",
+                "alt": "Facility Type",
+                "useAltAsPrefix": true
             },
             {
-                "value": "community_details/qn8",
-                "icon": {
-                    "FA": "layer-group"
-                },
-                "alt": "Número de famílias existentes"
+                "value": "supervision_type",
+                "icon": "pushpin",
+                "alt": "Supervision type",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": "priority_level",
+                "icon": "pushpin",
+                "alt": "Priority Level",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": "supervised_by_dsno",
+                "icon": "pushpin",
+                "alt": "District staff last supervision",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": "supervised_by_who",
+                "icon": "pushpin",
+                "alt": "WHO staff last supervision",
+                "useAltAsPrefix": true
             }
         ]
     },
