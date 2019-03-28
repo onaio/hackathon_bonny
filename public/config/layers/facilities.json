@@ -34,7 +34,7 @@
             2
         ],
         "icon-image": "suitcase-15",
-        "icon-allow-overlap": true
+        "icon-allow-overlap": false
     },
     "categories": {
         "breaks": "no",
@@ -49,7 +49,29 @@
         ]
     },
     "geo-column": "gps_beginning",
-    
+
+    "aggregate": {
+        "filter": [
+            "states",
+            "districts"
+            ],
+        "accepted-filter-values": [
+            "all",
+            "all"
+        ],
+        "filter-label": [
+             "COUNTY",
+             "DISTRICT"
+        ],
+        "sub-filter": [
+            "",
+            ""
+        ],
+        "accepted-sub-filter-values": [
+            "",
+            ""
+        ]
+    },
 
     "detail-view": {
         "UID": "name_of_facility_visited",
