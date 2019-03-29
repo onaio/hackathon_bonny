@@ -50,7 +50,8 @@
             2
         ],
         "icon-image": "suitcase-15",
-        "icon-allow-overlap": true
+        "icon-allow-overlap": false,
+        "icon-ignore-placement": false
     },
     "categories": {
         "breaks": "no",
