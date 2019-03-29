@@ -40,7 +40,8 @@
       ],
     "Rates": [
       "npafp-rates",
-      "facilities"
+      "facilities",
+      "measle-cases"
     ]  
   }
 }

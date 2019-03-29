@@ -130,6 +130,13 @@
           "OTHER_NON_FS": "Other non focal site"
         }
       },
+      "defaulter_tracing": {
+        "type": "single",
+        "key": {
+          "Y": "Yes",
+          "N": "No"
+        }
+      },
       "supervised_by_dsno": {
         "type": "single",
         "key": {
@@ -244,6 +251,12 @@
                 "value": "supervised_by_who",
                 "icon": "pushpin",
                 "alt": "WHO staff last supervision",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": "defaulter_tracing",
+                "icon": "pushpin",
+                "alt": "Defaulter tracing mechanism",
                 "useAltAsPrefix": true
             }
         ]
