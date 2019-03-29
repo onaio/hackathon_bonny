@@ -20,6 +20,22 @@
             ]
     }
     },
+    "properties": {
+        "808": [
+            "name_of_facility_visited",
+            "_geolocation",
+            "states",
+            "districts",
+            "type_of_facility_visited",
+            "ist",
+            "priority_level",
+            "supervised_by_dsno",
+            "supervised_by_who",
+            "date_of_visit",
+            "wards",
+            "supervision_type"
+        ]
+    },
     "type": "symbol",
     "paint": {
         "text-color": "#0000ff",
@@ -48,8 +64,7 @@
             "#000000"
         ]
     },
-    "geo-column": "gps_beginning",
-
+    "geo-column": "_geolocation",
     "aggregate": {
         "filter": [
             "states",
@@ -185,7 +200,7 @@
 
             },
             {
-                "value": "Districts",
+                "value": "districts",
                 "icon": {
                     "FA": "bookmark"
                 },
