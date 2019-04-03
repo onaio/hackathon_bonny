@@ -2,7 +2,7 @@
     "label": "Number of missed suspected measles cases found in the register(s) or during discussions",
     "source": {
         "type": "vector",
-        "data": 808,
+        "data": [808],
         "layer": "kenyan_counties-9z7g18",
         "url": "mapbox://ona.cwqxy1no",
         "join": [
@@ -12,9 +12,11 @@
     },
     "type": "fill",
     "property": "num_unreportedcases_measles",
+    "properties": ["num_unreportedcases_measles", "states"],
     "categories": {
         "breaks": "yes",
-        "color":"greens"
+        "color":"Greens",
+        "clusters": 3
     },
     "popup": {
         "header": "states",
