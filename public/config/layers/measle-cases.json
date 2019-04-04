@@ -12,8 +12,7 @@
     },
     "type": "fill",
     "paint": {
-        "fill-opacity": 0.5,
-        "fill-color": "#000"
+        "fill-opacity": 0.5
       },
     "property": "num_unreportedcases_measles",
     "properties": {
@@ -26,20 +25,19 @@
     "categories": {
         "breaks": "yes",
         "color":"Oranges",
-        "clusters": 5
+        "clusters": 3
     },
     "aggregate": {
         "type": "sum",
         "group-by": "states",
-        "date-by": "date_of_visit",
-        "timeseries": {
-            "field": "date_of_visit"
-        },
         "extraProps": [
             "states",
             "date_of_visit",
             "num_unreportedcases_measles"
-        ]
+        ],
+        "timeseries": {
+            "field": "period"
+        }
     },
     "popup": {
         "header": "districts",
