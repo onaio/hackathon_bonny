@@ -3,8 +3,8 @@
     "source": {
         "type": "vector",
         "data": [808],
-        "layer": "kenyan_counties-9z7g18",
-        "url": "mapbox://ona.cwqxy1no",
+        "layer": "kenyan_counties-8gb4un",
+        "url": "mapbox://ona.3kyaqkno",
         "join": [
             "COUNTY",
             "states"
@@ -22,7 +22,7 @@
     "categories": {
         "breaks": "yes",
         "color":"Oranges",
-        "clusters": 3
+        "clusters": 5
     },
     "aggregate": {
         "type": "sum",
