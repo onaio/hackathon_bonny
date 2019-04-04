@@ -11,6 +11,6 @@
     "line-color": "#888",
     "line-opacity": 0.5
   },
-  "visible": false,
+  "visible": true,
   "category": "Boundaries & Labels"
 }
