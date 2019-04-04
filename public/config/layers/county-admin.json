@@ -8,9 +8,9 @@
   "type": "line",
   "paint": {
     "line-width": 1,
-    "line-color": "#aaa",
+    "line-color": "#000",
     "line-opacity": 0.5
   },
-  "visible": false,
+  "visible": true,
   "category": "Boundaries & Labels"
 }
