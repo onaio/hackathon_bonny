@@ -11,6 +11,10 @@
         ]
     },
     "type": "fill",
+    "paint": {
+        "fill-opacity": 0.5,
+        "fill-color": "#000"
+      },
     "property": "num_unreportedcases_measles",
     "properties": {
         "808": [
@@ -39,7 +43,7 @@
     },
     "popup": {
         "header": "districts",
-        "body": " <p style=text-align:left;> <b>County:</b> {{states}}<br><b>NPAFP Rate:</b> {{num_unreportedcases_measles}}<span style=float:right;>"
+        "body": " <p style=text-align:left;> <b>County:</b> {{states}}<br><b>Missed Measles Cases:</b> {{num_unreportedcases_measles}}<span style=float:right;>"
     },
     "visible": false,
     "credit": "Number of missed suspected measles cases found in the register(s) or during discussions",
