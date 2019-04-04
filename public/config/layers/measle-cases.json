@@ -12,14 +12,33 @@
     },
     "type": "fill",
     "property": "num_unreportedcases_measles",
-    "properties": ["num_unreportedcases_measles", "states"],
+    "properties": {
+        "808": [
+            "num_unreportedcases_measles",
+            "states",
+            "date_of_visit"
+        ]
+    },
     "categories": {
         "breaks": "yes",
-        "color":"Greens",
+        "color":"Oranges",
         "clusters": 3
     },
+    "aggregate": {
+        "type": "sum",
+        "group-by": "states",
+        "date-by": "date_of_visit",
+        "timeseries": {
+            "field": "date_of_visit"
+        },
+        "extraProps": [
+            "states",
+            "date_of_visit",
+            "num_unreportedcases_measles"
+        ]
+    },
     "popup": {
-        "header": "states",
+        "header": "districts",
         "body": " <p style=text-align:left;> <b>County:</b> {{states}}<br><b>NPAFP Rate:</b> {{num_unreportedcases_measles}}<span style=float:right;>"
     },
     "visible": false,
