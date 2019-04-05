@@ -41,7 +41,8 @@
     "Rates": [
       "npafp-rates",
       "facilities",
-      "measle-cases"
+      "measle-cases",
+      "unrepoted-cases"
     ]  
   }
 }
