@@ -40,8 +40,7 @@
         }
     },
     "popup": {
-        "header": "states",
-        "body": " <p style=text-align:left;> <b> Missed Measles Cases:</b> {{num_unreportedcases_measles}}<span style=float:right;>"
+        "body": " <p style=text-align:left;> <b>County:</b> {{states}}<br> <b> Missed Measles Cases:</b> {{num_unreportedcases_measles}}<span style=float:right;>"
     },
     "visible": false,
     "credit": " ",
