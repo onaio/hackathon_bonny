@@ -13,8 +13,8 @@
     "apiHost": "esurv.afro.who.int",
     "accessToken": "pk.eyJ1Ijoib25hIiwiYSI6IlVYbkdyclkifQ.0Bz-QOOXZZK01dq4MuMImQ",
     "apiAccessToken": "e687456ea545f87cc49bad293fdfc94e520414fc",
-    "appIcon": "/assets/img/who.png",
-    "appColor": "#0098D0",
+    "appIcon": "/assets/img/logo.png",
+    "appColor": "#ff0000",
     "appName": "",
     "appNameDesc": "AFRO: Non Polio AFP (NPAFP)",
     "password": ["demo"]
@@ -38,11 +38,8 @@
       "county-admin",
       "county-admin-labels"
       ],
-    "Rates": [
-      "npafp-rates",
-      "facilities",
-      "measle-cases",
-      "unrepoted-cases"
-    ]  
+    "Amenities": [
+      "facilities"
+    ]
   }
 }
