@@ -3,10 +3,10 @@
     "mapConfig": {
       "container": "map",
       "style": "mapbox://styles/ona/cjt5rsvlf02081ftajhfcl6rs",
-      "zoom": 5.3300000,
+      "zoom": 11.3300000,
       "center": {
-        "lng": 37.424125,
-        "lat": 0.407324
+        "lng": 36.822416,
+        "lat": -1.287602
       },
       "preserveDrawingBuffer": true
     },
