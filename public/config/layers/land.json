@@ -1,0 +1,28 @@
+{
+  "label": "Land Ownership Status",
+  "source": {
+      "type": "vector",
+      "data": "data/land-register.csv",
+      "layer": "nairobi_wards-5hiza3",
+      "url": "mapbox://ona.5osrzyeg",
+      "join": [
+          "NAME_3",
+          "Ward"
+      ]
+  },
+  "type": "fill",
+  "property": "Type_of_lease",
+  "categories": {
+      "breaks": "no",
+      "color": ["#2ECC40", "#7FDBFF"],
+      "limit": ["1", "5"],
+      "label": ["Certificate of Title", "Certificate of Lease"]
+  },
+  "popup": {
+      "header": "Land",
+      "body": " <p style=text-align:left;> <b>Land Registration Number:</b> {{Land_Registration_Number}}<br/><b>Size of Land</b> {{Approximate_size}}</p>"
+  },
+  "visible": false,
+  "menu-credit": "Kenya Govt Registry",
+  "category": "Land"
+}

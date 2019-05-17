@@ -42,6 +42,10 @@
       ],
     "Amenities": [
       "facilities"
+    ],
+    "Land":[
+      "land",
+      "land2"
     ]
   }
 }

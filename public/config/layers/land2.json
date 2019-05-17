@@ -1,0 +1,100 @@
+{
+    "label": "Land Status",
+    "source": {
+        "type": "vector",
+        "layer": "nairobi_wards-5hiza3",
+        "url": "mapbox://ona.5osrzyeg",
+        "data": "data/land-register.csv",
+        "join": [
+            "NAME_3",
+            "Ward"
+        ]
+    },
+    "type": "symbol",
+    "paint": {
+        "text-color": "#000",
+        "text-halo-color": "#fff",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+    },
+    "layout": {
+        "icon-allow-overlap": true,
+        "icon-image": {
+            "property": "Type_of_lease",
+            "stops": [
+                [
+                    "1",
+                    "circle-stroked-15"
+                ],
+                [
+                    "2",
+                    "circle-15"
+                ]
+            ],
+            "type": "categorical"
+        },
+        "icon-size": 1
+    },
+    "detail-view": {
+        "UID": "Land_Registration_Number",
+        "title": {
+            "prop": "LR Number",
+            "mustache": "{{{Land_Registration_Number}}}"
+        },
+        "sub-title": {
+            "prop": "Ward",
+            "mustache": "{{{Ward}}}"
+        },
+        "basic-info": [
+            {
+                "value": "Land_Registration_Number",
+                "icon": "pushpin",
+                "alt": "Land Registration Number"
+            },
+            {
+                "value": "County",
+                "icon": "home",
+                "alt": "County"
+            },
+            {
+                "value": "Constituency",
+                "icon": {
+                    "FA": "building"
+                },
+                "alt": "Constituency"
+            },
+            {
+                "value": {
+                    "prop": "Estimated_price",
+                    "mustache": "{{{Estimated_price}}}"
+                },
+                "alt": "Estimated Price",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": {
+                    "prop": "Length_of_lease_in_years",
+                    "mustache": "{{{Length_of_lease_in_years}}}"
+                },
+                "alt": "Length of lease in years",
+                "useAltAsPrefix": true
+            },
+            {
+                "value": {
+                    "prop": "Approximate_size",
+                    "mustache": "{{{Approximate_size}}}"
+                },
+                "alt": "Approximate Size",
+                "useAltAsPrefix": true
+            }
+        ]
+    },
+    "popup": {
+        "header": "{{Ward}}",
+        "body": " <p style=text-align:left;> <b>Land Registration Number:</b> {{Land_Registration_Number}}<br/><b>Size of Land</b> {{Approximate_size}}</p>"
+    },
+    "visible": false,
+    "menu-credit": "Government of Kenya",
+    "credit": "",
+    "category": "Land"
+}
