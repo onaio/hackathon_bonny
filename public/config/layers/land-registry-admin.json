@@ -1,0 +1,16 @@
+{
+  "label": "Land Boundaries",
+  "source": {
+    "type": "vector",
+    "layer": "nairobi_wards-5hiza3",
+    "url": "mapbox://ona.5osrzyeg"
+  },
+  "type": "line",
+  "paint": {
+    "line-width": 1,
+    "line-color": "#888",
+    "line-opacity": 0.5
+  },
+  "visible": true,
+  "category": "Boundaries & Labels"
+}

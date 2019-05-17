@@ -36,7 +36,9 @@
   "LAYERS": {
     "Boundaries & Labels": [
       "county-admin",
-      "county-admin-labels"
+      "county-admin-labels",
+      "land-registry-admin",
+      "land-registry-labels"
       ],
     "Amenities": [
       "facilities"
