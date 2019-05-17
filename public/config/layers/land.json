@@ -15,8 +15,15 @@
   "categories": {
       "breaks": "no",
       "color": ["#2ECC40", "#7FDBFF"],
-      "limit": ["1", "5"],
+      "limit": ["1", "2"],
       "label": ["Certificate of Title", "Certificate of Lease"]
+  },
+  "aggregate": {
+      "type": "sum",
+      "group-by": "Ward",
+      "timeseries": {
+          "field": "period"
+      }
   },
   "popup": {
       "header": "Land",
@@ -24,5 +31,6 @@
   },
   "visible": false,
   "menu-credit": "Kenya Govt Registry",
+  "credit":"",
   "category": "Land"
 }
